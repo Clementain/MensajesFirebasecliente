@@ -15,14 +15,5 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        // Suscribirse a un tema de Firebase Messaging
-        FirebaseMessaging.getInstance().subscribeToTopic("topic_name")
-            .addOnCompleteListener { task ->
-                if (task.isSuccessful) {
-                    Log.d(TAG, "Suscrito al tema.")
-                } else {
-                    Log.e(TAG, "Error al suscribirse al tema.", task.exception)
-                }
-            }
     }
 }

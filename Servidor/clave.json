@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "fir-cloud-messenging-7baef",
+  "private_key_id": "e81daa99c4c5e57bb714ea3b575c4ac12fb065e8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCcl0zf7q4r6P3U\ntuigOfQ7DnuK1uXOE7qVsm3lT7yXkP4U0mdVBDiZGpI3yfB0QIhw0kpz7Ocm5Bt9\n2KG2hsx0gXP+QJY/OVE9TiuB5UyYSLkLgzA1a52Egb9QYF9euxRcgpkFAoRzObmP\ngBE595XFAKViekujyJeIftjRlyWbzOOYwtLXQgncBVkNBkr4BE97POpHaNP0oZN4\nnbzHhImL4Em+ka7PUon3jnOEuJ4JImZF8DAUml+vb5rAqyws8nMqAoy1748xYekl\nO8yP0yn7mUnoFsLZReT/Nw0C3dMBlhZCFzkD27Lm3Y4MZHv114hP2ZzGhnAlnimj\nC6owkCG/AgMBAAECggEACOb/IKyolpLQj3MgnC9UnQuQkXmbJ1FEJnY2POGrcUXL\nHshBcKS59QD84WgSdVbP4EjMS8qNmk6V6Nx+gRUpHXyDPtKm2AxRposW+nOx8ZG8\n12ngvUC+JpuGaAg6k8pN+N5shaDkLSAnK6srujXC/CgHvvwAkzH4ZMhVWkEItdKO\n3oQ8enjjevSBZMtlAXozjJxGSBnYCKSJkM9IXLpAMMpcGHK8E8JJUvQRD56rOXn4\n4yNJVqalA7L9zoUj882OfQ6mK5u5znf7s1CsDxBAZ1EqNpXRJ3e/iaGdCacMcS8J\nLRZytlzJgTV5eC5/y9RWBOBuFIBISqWVSA4yjMF6iQKBgQDMrMTqxZiSyUJ/NFLh\nGUngrw4+3U7TYmHfTtNp18l0Os/kIxlu21mCW4EsvLHKChz9Np8JcbCyuIYaTe2D\nX/a78AlhjL8fs2Ydq5Fqf+P67aBYWfcCGzU1n8YfKiF4F/QPzkH4LCAT6hXJ8PJy\nTE8S4zs/ObPilZCaHMOzDxTflwKBgQDD28H4JOX3khqI3PygMZPfnrhe6j9e9MMJ\n/esWKYfU5hGJ14K0D51jdSiKrSgsogJlg4QCTgjtVUXQAGOYOQROqm4HGuee7DJQ\nzALa6t38XXzLgd5nu5Bhly1Rng1MwQQDt/A/N9iUavr0K5JJcqXjYRFGBZa7lHtd\nAIojBDWUGQKBgEzpQ1oBhJLsJBvO2rIRoaxXu9+to/hVCPg0E8e7Oc1+aC6Pbfg1\nXw5YOlNIWPrWEAyq4NpYqZCPPH1X+T+b6Qi4a54HmK5d6KqPlSZTBqV9c/qfW+2j\nsbwD3RxK5abOQX1LAYkzc55oIWXwL/r5Z+FuGA5rLYigsWToGDYKHcrjAoGABjpi\nvKVPusOmnFuKnP12mlHNwxbn1PkripHMe/PuIdL/E8cKnPcyJgt/sok3EdRFBz1b\nYUdh+UoQ4kBg6mJFxMqenRM58k/IedFC9fsp+/BtG3uRuvK38KKCCmpgOeSZYBTl\nSt1XwcB1InaQPE2tAMIBbpyW4ngiRB7URbDIk2ECgYB7/OSHJ+yweXBkq/WO1+eT\nmSLAID6BvZstuxZnM658pLyiuL1nRraWSyqIo0HS1sqHSXD4HkMKCpnD4SNfQSQj\nwugqKt17gMiuPH0PTmDIU5Bsip4hBMwGf383ZO6rCCCBJKBZtBnL3ULGhFHntTgC\nGQyR5lME/k298CcE9K/3Rg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-vjumg@fir-cloud-messenging-7baef.iam.gserviceaccount.com",
+  "client_id": "104081029624158483680",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-vjumg%40fir-cloud-messenging-7baef.iam.gserviceaccount.com"
+}

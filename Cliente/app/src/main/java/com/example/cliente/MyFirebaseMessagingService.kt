@@ -15,16 +15,10 @@ import okhttp3.RequestBody.Companion.toRequestBody
 class MyFirebaseMessagingService : FirebaseMessagingService() {
 
     override fun onNewToken(token: String) {
-        Log.d(TAG, "Nuevo token: $token")
         enviarTokenAServidor(token)
     }
-
     private fun enviarTokenAServidor(token: String) {
-        // Llamar a la ruta "/registerToken" en tu servidor para registrar el token
-        // Utiliza una biblioteca de cliente HTTP como OkHttp o Retrofit para hacer la solicitud
-        // ...
 
-        // Ejemplo utilizando la biblioteca OkHttp
         val client = OkHttpClient()
         val request = Request.Builder()
             .url("http://192.168.0.5:3000/registerToken")
