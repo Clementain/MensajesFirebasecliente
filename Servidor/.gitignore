@@ -1,4 +1,5 @@
 # Ignore las claves privadas y los archivos de configuración
+tokens.db
 
 config/
 
