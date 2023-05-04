@@ -1,0 +1,10 @@
+# Ignore las claves privadas y los archivos de configuración
+
+config/
+
+# Ignore los módulos instalados por npm
+node_modules/
+
+# Ignore los archivos de registro y los archivos temporales
+logs/
+temp/
