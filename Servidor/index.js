@@ -29,7 +29,7 @@ const db = new sqlite3.Database('tokens.db', (err) => {
 });
 
 app.get('/', async (req, res) => {
-    res.sendStatus(status)
+    res.send("Servidor funcionando");
 });
 
 // Ruta para recibir un token de un cliente Android
